@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=IbdEoocfEmE
 
 The Bug Hunter’s Methodology By json Haddix  : https://www.youtube.com/watch?v=HmDY7w8AbR4
 
-#Practise 
+#Practice
 
 https://www.root-me.org/?lang=en           FREE
 https://www.offsec.com/labs/individual/    FREE
