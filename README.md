@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=IbdEoocfEmE
 The Bug Hunter’s Methodology By json Haddix  : https://www.youtube.com/watch?v=HmDY7w8AbR4
 
 #Practice
-
+https://ringzer0ctf.com/                   FREE With elite hacker certificate (must try this 🔥)
 https://www.root-me.org/?lang=en           FREE
 https://www.offsec.com/labs/individual/    FREE
 https://portswigger.net/                   FREE
