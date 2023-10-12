@@ -5,14 +5,14 @@ Before exploring resources, take a look at this image to understand how to appro
 [View Image](https://github.com/soulvivek/Bug-Bounty-Resources/blob/main/cap.jpeg)
 
 ## <span style="color: #0077b6;">🔍 Learn Vulnerabilities</span>
-
-- https://gist.github.com/ruevaughn/a6da987379f5593d0ab4a878fe1b6baf 	
+ 	
 - https://exploit-notes.hdks.org/ 
 - https://notes.defendergb.org/web-sec/vuln/ 
 - https://github.com/coderahsan/HowToHunt 
 - https://github.com/Az0x7/vulnerability-Checklist 
 - https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/web-app-hacking 
-- https://0xffsec.com/handbook/web-applications/ 
+- https://0xffsec.com/handbook/web-applications/
+- https://gist.github.com/ruevaughn/a6da987379f5593d0ab4a878fe1b6baf 
 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/tree/master 
 - https://kathan19.gitbook.io/howtohunt/ 
 - https://gabb4r.gitbook.io/oscp-notes/web-http/automated-scanners 
@@ -23,10 +23,10 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://bitvijays.github.io/LFC-VulnerableMachines.html 
 - https://hacktricks.boitatech.com.br/pentesting-web/web-vulnerabilities-methodology 
 - https://highon.coffee/blog/lfi-cheat-sheet/ 
-- https://notes.defendergb.org/web-sec/vuln/lfi-rfi 
+- https://notes.defendergb.org/web-sec/vuln/
 - https://github.com/swisskyrepo/PayloadsAllTheThings/ 
 - https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology 
-- https://www.network-sec.de/PHP 
+- https://www.network-sec.de/
 
 ## <span style="color: #0077b6;">📝 Writeups</span>
 
