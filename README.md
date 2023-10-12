@@ -45,7 +45,10 @@ https://ringzer0ctf.com/                   FREE With elite hacker certificate (m
 https://www.root-me.org/?lang=en           FREE
 https://www.offsec.com/labs/individual/    FREE
 https://portswigger.net/                   FREE
-https://www.hackthebox.com/                PAID
-https://tryhackme.com/login                PAID
 https://www.vulnhub.com/                   FREE
 https://overthewire.org/wargames/          FREE
+https://labs.hackxpert.com/                FREE
+https://app.letsdefend.io/training         FREE
+https://echoctf.red/                       FREE
+https://www.hackthebox.com/                PAID
+https://tryhackme.com/login                PAID
