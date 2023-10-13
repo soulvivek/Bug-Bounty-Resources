@@ -27,6 +27,8 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://github.com/swisskyrepo/PayloadsAllTheThings/ 
 - https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology 
 - https://www.network-sec.de/
+- https://practicalbugbounty.com
+- https://offsec.tools/
 
 ## <span style="color: #0077b6;">📝 Writeups</span>
 
