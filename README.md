@@ -55,6 +55,7 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://overthewire.org/wargames/          FREE 
 - https://labs.hackxpert.com/                FREE 
 - https://app.letsdefend.io/training         FREE 
-- https://echoctf.red/                       FREE 
+- https://echoctf.red/                       FREE
+- https://authlab.digi.ninja/                FREE 
 - https://www.hackthebox.com/                PAID 
 - https://tryhackme.com/login                PAID 
