@@ -48,14 +48,31 @@ Before exploring resources, take a look at this image to understand how to appro
 ## <span style="color: #0077b6;">🏋️ Practice</span>
 
 - https://ringzer0ctf.com/                   FREE With elite hacker certificate (must try this 🔥) 
-- https://www.root-me.org/?lang=en           FREE 
-- https://www.offsec.com/labs/individual/    FREE 
-- https://portswigger.net/                   FREE 
-- https://www.vulnhub.com/                   FREE 
-- https://overthewire.org/wargames/          FREE 
-- https://labs.hackxpert.com/                FREE 
-- https://app.letsdefend.io/training         FREE 
-- https://echoctf.red/                       FREE
-- https://authlab.digi.ninja/                FREE 
+- https://www.root-me.org/?lang=en           FREE  (Web)
+- https://www.offsec.com/labs/individual/    FREE  (Web)
+- https://portswigger.net/                   FREE  (Web)
+- https://www.vulnhub.com/                   FREE  (Web)
+- https://overthewire.org/wargames/          FREE  (Web)
+- https://labs.hackxpert.com/                FREE  (Web)
+- https://app.letsdefend.io/training         FREE  (Web)
+- https://echoctf.red/                       FREE  (Web)
+- https://authlab.digi.ninja/                FREE  (Web)
+- https://promptriddle.com/                  FREE  (Web)
+- https://247ctf.com/dashboard               FREE  (Web)
+- https://ctflearn.com/challenge/1/browse    FREE  (Web)
+- https://w3challs.com/challenges/list/web   FREE  (Web)
+- https://crackmes.one/                      FREE  (for reverse engineering )
+- https://cryptohack.org/challenges/         FREE  (for Cryptography )
+- https://www.hacker101.com/                 FREE  (Web)
+- https://www.hackthissite.org/              FREE  (Web)
+- https://picoctf.org/                       FREE  (Web)
+- https://pwnable.xyz/challenges/            FREE  (Web)
+- https://webhacking.kr/chall.php            FREE
+- http://websec.fr/                          FREE
+- http://suninatas.com/challenges/web        FREE
+- https://promptriddle.com/                  FREE (Fun prompt based riddle)
+- https://pwn.xmcve.com/                     FREE (binary exploitaion )
+- http://reversing.kr/index.php              FREE (reverse eng)
+- https://www.vulnhub.com/                   FREE (vm based pentesting platform )
 - https://www.hackthebox.com/                PAID 
 - https://tryhackme.com/login                PAID 
