@@ -44,6 +44,11 @@ Before exploring resources, take a look at this image to understand how to appro
 ## <span style="color: #0077b6;">🛠️ The Bug Hunter’s Methodology</span>
 
 - https://www.youtube.com/watch?v=HmDY7w8AbR4
+- https://github.com/imran-parray/Mind-Maps (Mindmap for each vulnerability)
+- https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist
+- https://gist.github.com/OTaKuHP/b7748a04caa8145f6795b498302cec4e
+- https://github.com/Ignitetechnologies/Mindmap/tree/main
+- https://xmind.app/m/cKAVyk/
 
 ## <span style="color: #0077b6;">🏋️ Practice</span>
 
