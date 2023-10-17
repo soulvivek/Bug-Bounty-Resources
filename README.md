@@ -8,6 +8,8 @@ Before exploring resources, take a look at this image to understand how to appro
  	
 - https://exploit-notes.hdks.org/
 - https://cqr.company/?s=idor
+- https://dsopas.github.io/MindAPI/references/
+- https://dsopas.github.io/MindAPI/play/
 - https://notes.defendergb.org/web-sec/vuln/ 
 - https://github.com/coderahsan/HowToHunt 
 - https://github.com/Az0x7/vulnerability-Checklist 
