@@ -6,7 +6,8 @@ Before exploring resources, take a look at this image to understand how to appro
 
 ## <span style="color: #0077b6;">🔍 Learn Vulnerabilities</span>
  	
-- https://exploit-notes.hdks.org/ 
+- https://exploit-notes.hdks.org/
+- https://cqr.company/?s=idor
 - https://notes.defendergb.org/web-sec/vuln/ 
 - https://github.com/coderahsan/HowToHunt 
 - https://github.com/Az0x7/vulnerability-Checklist 
