@@ -33,6 +33,7 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://practicalbugbounty.com
 - https://offsec.tools/
 - https://blog.detectify.com/
+- https://salmonsec.com/cheatsheets/exploitation/
 - https://0xn3va.gitbook.io/projects/ (cheat sheet)
 - https://apps.burpsuite.guide/ (FOR : burp extention)
 
