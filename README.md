@@ -11,7 +11,8 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://dsopas.github.io/MindAPI/references/
 - https://dsopas.github.io/MindAPI/play/
 - https://notes.defendergb.org/web-sec/vuln/ 
-- https://github.com/coderahsan/HowToHunt 
+- https://github.com/coderahsan/HowToHunt
+- https://www.acunetix.com/vulnerabilities/web/
 - https://github.com/Az0x7/vulnerability-Checklist 
 - https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/red-offensive/web-app-hacking 
 - https://0xffsec.com/handbook/web-applications/
