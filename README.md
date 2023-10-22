@@ -38,11 +38,14 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://0xn3va.gitbook.io/projects/ (cheat sheet)
 - https://salmonsec.com/cheatsheethome (cheet sheet)
 - https://apps.burpsuite.guide/ (FOR : burp extention)
+- https://github.com/snoopysecurity/awesome-burp-extensions (collection of burp ext)
 
 ## <span style="color: #0077b6;">📝 Writeups</span>
 
 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/tree/master 
-- https://pentester.land/writeups/ 
+- https://pentester.land/writeups/
+- https://blog.detectify.com/       (awesome blog)
+- https://cqr.company/?s=idor       
 
 ## <span style="color: #0077b6;">🔎 Recon</span>
 
