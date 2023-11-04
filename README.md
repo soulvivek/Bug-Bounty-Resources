@@ -94,4 +94,11 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://pwn.tn/                            FREE
 - https://enigmes-a-thematiques.fr/front/categorie/7 
 - https://www.hackthebox.com/                PAID 
-- https://tryhackme.com/login                PAID 
+- https://tryhackme.com/login                PAID
+ 
+🔍 Want to use VPS for bug bounty? Use my referral link for $200 credit on Digital Ocean VPS! 🚀
+
+👇👇👇👇
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7274a627b48b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
