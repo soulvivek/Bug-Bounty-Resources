@@ -7,6 +7,7 @@ Before exploring resources, take a look at this image to understand how to appro
 ## <span style="color: #0077b6;">🔍 Learn Vulnerabilities</span>
  	
 - https://exploit-notes.hdks.org/
+- https://www.bugbountyhunting.com/
 - https://cqr.company/?s=idor
 - https://dsopas.github.io/MindAPI/references/
 - https://dsopas.github.io/MindAPI/play/
