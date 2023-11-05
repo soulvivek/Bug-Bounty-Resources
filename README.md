@@ -39,6 +39,7 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://salmonsec.com/cheatsheethome (cheet sheet)
 - https://apps.burpsuite.guide/ (FOR : burp extention)
 - https://github.com/snoopysecurity/awesome-burp-extensions (collection of burp ext)
+- https://github.com/00xtrace/BugBounty (Books , cheetsheet , private programs , checklist )
 
 ## <span style="color: #0077b6;">📝 Writeups</span>
 
