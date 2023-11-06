@@ -8,6 +8,7 @@ Before exploring resources, take a look at this image to understand how to appro
  	
 - https://exploit-notes.hdks.org/
 - https://www.bugbountyhunting.com/
+- https://github.com/imran-parray/Mind-Maps (🔍Mindmap)
 - https://cqr.company/?s=idor
 - https://dsopas.github.io/MindAPI/references/
 - https://dsopas.github.io/MindAPI/play/
@@ -54,6 +55,7 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://www.youtube.com/watch?v=p4JgIu1mceI 
 - https://www.youtube.com/watch?v=SYExiynPEKM 
 - https://www.youtube.com/watch?v=IbdEoocfEmE
+- https://docs.google.com/presentation/d/1AA0gX2-SI_9ErTkBhtW0b-5BH70-1B1X/edit#slide=id.p9
 
 ## <span style="color: #0077b6;">🛠️ The Bug Hunter’s Methodology</span>
 
