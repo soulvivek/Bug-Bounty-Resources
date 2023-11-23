@@ -98,6 +98,7 @@ Before exploring resources, take a look at this image to understand how to appro
 - http://reversing.kr/index.php              FREE (reverse eng)
 - https://www.vulnhub.com/                   FREE (vm based pentesting platform )
 - https://pwn.tn/                            FREE
+- https://hbh.sh/authentication              FREE
 - https://enigmes-a-thematiques.fr/front/categorie/7 
 - https://www.hackthebox.com/                PAID 
 - https://tryhackme.com/login                PAID
