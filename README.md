@@ -88,6 +88,8 @@ Before exploring resources, take a look at this image to understand how to appro
 - https://www.hackthissite.org/              FREE  (Web)
 - https://picoctf.org/                       FREE  (Web)
 - https://pwnable.xyz/challenges/            FREE  (Web)
+- https://www.hackinghub.io/                 FREE  (web)
+- https://www.bugbountyhunter.com/                 (WEB)
 - https://github.com/CSPF-Founder/JavaVulnerableLab   (java vulnearable lab )
 - https://github.com/CSPF-Founder/JavaSecurityCourse  (java security free course for web realted vuln like : xss , idor , injection , bac , csrf)
 - https://webhacking.kr/chall.php            FREE
